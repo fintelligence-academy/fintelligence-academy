@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fintelligence-academy.  
+- 👋 Hi, I’m @fintelligence-academy. This is the official website repo of the Fintelligence group.
 - 👀 I’m interested in quantitative finance and machine learning. 
 - 📫 How to reach me:
   fintelligence.group@gmail.com
